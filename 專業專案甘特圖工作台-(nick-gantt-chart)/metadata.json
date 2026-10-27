@@ -1,0 +1,6 @@
+{
+  "name": "專業專案甘特圖工作台 (Nick Gantt Chart)",
+  "description": "具備 WBS 階層計算、父子進度工期彙總、雙欄自適應時間軸、預計與實際雙甘特條、假日/補班日設定與政府行事曆同步、.nick 格式匯入匯出、A3 橫向列印最佳化及 Mermaid.js 支援的專案甘特圖單頁應用程式。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
